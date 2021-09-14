@@ -6,9 +6,9 @@
     <edmx:Diagrams>
       <Diagram DiagramId="91932c1b36774b5abb004f82ae5fc057" Name="Diagram1" >
         <EntityTypeShape EntityType="Model1.Gasto" Width="1.5" PointX="3.375" PointY="1.125" />
-        <EntityTypeShape EntityType="Model1.Categoria" Width="1.5" PointX="8" PointY="0.625" />
-        <EntityTypeShape EntityType="Model1.Moneda" Width="1.5" PointX="7.375" PointY="3.75" />
-        <EntityTypeShape EntityType="Model1.Lugar" Width="1.5" PointX="7.75" PointY="2.125" />
+        <EntityTypeShape EntityType="Model1.Categoria" Width="1.5" PointX="7.75" PointY="0.5" />
+        <EntityTypeShape EntityType="Model1.Moneda" Width="1.5" PointX="7.875" PointY="3.75" />
+        <EntityTypeShape EntityType="Model1.Lugar" Width="1.5" PointX="7.875" PointY="2.125" />
         <AssociationConnector Association="Model1.CategoriaGasto" />
         <AssociationConnector Association="Model1.LugarLugar" />
         <AssociationConnector Association="Model1.LugarGasto" />
