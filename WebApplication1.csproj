@@ -181,6 +181,7 @@
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Categorias.cs" />
+    <Compile Include="Models\DBEntities.cs" />
     <Compile Include="Models\Gasto.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\Lugar.cs" />
